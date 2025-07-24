@@ -200,7 +200,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-For questions or feedback, please open an issue on the GitHub repository or contact the maintainer at srujanbj.ai22@bmsce.ac.in.
+For questions or feedback, please open an issue on the GitHub repository or contact the maintainer at srinidhi.ai22@bmsce.ac.in
 
 ---
 
